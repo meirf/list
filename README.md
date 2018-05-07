@@ -8,3 +8,5 @@ pvt.k12.ma.us. The Public Suffix List is a list of all known public suffixes.
 See https://publicsuffix.org/ for more information.
 
 [![Build Status](https://travis-ci.org/meirf/list.svg?branch=master)](https://travis-ci.org/meirf/list)
+
+asdf

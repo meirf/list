@@ -5,7 +5,7 @@
 null null
 // Mixed case.
 COM null
-example.COM example.com
+example.COM FAKE
 WwW.example.COM example.com
 // Leading dot.
 .com null

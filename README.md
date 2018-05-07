@@ -9,4 +9,3 @@ See https://publicsuffix.org/ for more information.
 
 [![Build Status](https://travis-ci.org/meirf/list.svg?branch=master)](https://travis-ci.org/meirf/list)
 
-asdf

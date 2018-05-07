@@ -42,6 +42,8 @@ mm null
 c.mm null
 b.c.mm b.c.mm
 a.b.c.mm b.c.mm
+// TLD wildcard with subdomain: https://github.com/golang/go/issues/22985
+transurl.be transurl.be
 // More complex TLD.
 jp null
 test.jp test.jp

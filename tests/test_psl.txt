@@ -5,7 +5,7 @@
 checkPublicSuffix(null, null);
 // Mixed case.
 checkPublicSuffix('COM', null);
-checkPublicSuffix('example.COM', 'FAKE');
+checkPublicSuffix('example.COM', 'example.com');
 checkPublicSuffix('WwW.example.COM', 'example.com');
 // Leading dot.
 checkPublicSuffix('.com', null);
